@@ -1,0 +1,16 @@
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+body {
+ <!   background: black;
+ background-image: url("https://patriciaalves.com.br/wp-content/uploads/2023/07/Quantos-Livros-tem-a-Biblia-930x620.png");
+
+    color:gold;
+    
+}
+
